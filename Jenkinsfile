@@ -34,7 +34,7 @@ pipeline {
               script 
             {
                 waitForQualityGate abortPipeline: true
-              }
+              
            }
         } 
       } 
